@@ -5,7 +5,7 @@ I was privately contracted to contribute to the Front-End Engineering Design (FE
 
 My primary responsibility was to develop a 3D model for one of the project locations—a modified onshore flow station using AVEVA E3D software. The project was executed in two phases. The first phase involved As-Built modeling of the existing facility, where I generated a 3D model of the current flow station from scanned cloud data to assess available space for the new station. The second phase focused on creating a 3D model based on FEED documents, including Piping and Instrumentation Diagrams (P&IDs), Equipment General Arrangement drawings, structural drawings, safety equipment drawings, and civil engineering drawings.
 
-I assembled and led a team of three to execute this project. My role included modeling pipes, equipment, electrical and instrument trenches, and safety equipment, while the other team members were responsible for structural and civil elements. Key deliverables included the 3D model and 2D extracted drawings such as the general plot plan, piping general arrangement drawings, safety layout drawings, and piping isometrics.
+I assembled and led a team of three to execute this project. My role included modeling pipes, equipment, electrical and instrument trenches, and safety equipment, while the other team members were responsible for structural and civil elements. Key deliverables included the 3D model and 2D extracted drawings such as the general plot plan, piping general arrangement drawings, Equipment layout drawing, safety layout drawings, escape route layout and piping isometrics.
 
 ## 3D View Link
 For access to the 3D model, follow the link: https://autode.sk/4bEmjEW
