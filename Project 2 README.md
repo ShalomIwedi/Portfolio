@@ -8,4 +8,4 @@ Using AVEVA E3D, we modeled pipes, mechanical equipment, structural components, 
 Key deliverables included the comprehensive 3D model and extracted 2D drawings such as the general plot plan, piping general arrangement drawings, equipment layout drawings, safety layout drawings, and piping isometrics.
 
 ## 3D View Link
-For access to the 3D model, follow the link: https://autode.sk/4jgMmF2
+For access to the 3D model, follow the link: https://autode.sk/4kfUWEM
